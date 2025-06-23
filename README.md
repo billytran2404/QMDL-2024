@@ -1,4 +1,4 @@
-# QDL2025-Review
+# QMDL2024-Review
 This is the coding file of the article "A Systematic Review of Quantum Deep Learning for Computer Scientists".
 The structure of the coding file is described as follows:
 * QMDL Protocol Driven: The CSV file contains data collected through the protocol-driven method.
